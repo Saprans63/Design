@@ -13,6 +13,7 @@
 		96CA54382733A0FF00B1C1FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CA54372733A0FF00B1C1FF /* Assets.xcassets */; };
 		96CA543B2733A0FF00B1C1FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CA543A2733A0FF00B1C1FF /* Preview Assets.xcassets */; };
 		96CA543E2733A0FF00B1C1FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96CA543C2733A0FF00B1C1FF /* LaunchScreen.storyboard */; };
+		96CA5446273419CD00B1C1FF /* ManuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96CA5445273419CD00B1C1FF /* ManuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96CA543A2733A0FF00B1C1FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		96CA543D2733A0FF00B1C1FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96CA543F2733A0FF00B1C1FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96CA5445273419CD00B1C1FF /* ManuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				96CA54312733A0FC00B1C1FF /* AppDelegate.swift */,
 				96CA54332733A0FC00B1C1FF /* SceneDelegate.swift */,
 				96CA54352733A0FC00B1C1FF /* ContentView.swift */,
+				96CA5445273419CD00B1C1FF /* ManuView.swift */,
 				96CA54372733A0FF00B1C1FF /* Assets.xcassets */,
 				96CA543C2733A0FF00B1C1FF /* LaunchScreen.storyboard */,
 				96CA543F2733A0FF00B1C1FF /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96CA54322733A0FC00B1C1FF /* AppDelegate.swift in Sources */,
+				96CA5446273419CD00B1C1FF /* ManuView.swift in Sources */,
 				96CA54342733A0FC00B1C1FF /* SceneDelegate.swift in Sources */,
 				96CA54362733A0FC00B1C1FF /* ContentView.swift in Sources */,
 			);
